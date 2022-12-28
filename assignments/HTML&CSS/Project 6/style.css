@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background:whitesmoke;
+}
+body{
+    max-width: 1440;
+}
+/* navbar */
+
+.navbar{
+    display: flex;
+align-items:center ;
+background-color: whitesmoke;
+height: 60px;
+}
+white-logo.png{
+    width: 60px;
+    margin-right: 80px;
+}
+.grow-list{
+    flex: 1;
+}
+.grow-list ul{
+    display: flex;
+    align-items: center;
+}
+ul li{
+    color: #000000;
+    list-style: none;
+    font-weight: 500;
+    font-size: 15px;
+
+}
+.button-large{
+    padding: 12px 20px;
+    margin-left: 30px;
+    color: aliceblue;
+    background-color: black;
+    font-weight: 600;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+}
+
