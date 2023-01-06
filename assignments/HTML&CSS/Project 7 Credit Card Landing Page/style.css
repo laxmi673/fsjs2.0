@@ -9,7 +9,7 @@ body {
   background-color: #080808;
 }
 
-/* navigation bar start here  */
+/* navigation barstarthere  */
 .flex-container {
   width: 100vw;
   color: #fff;
@@ -150,8 +150,8 @@ body {
 .banner img {
   margin: 2rem;
 }
-/* banner desine with multiple imgs  end*/
-/* transsaction add secction start here */
+/* */
+/* transaction and add secction start here */
 .transactions {
   width: 100vw;
   display: flex;
