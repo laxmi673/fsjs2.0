@@ -74,9 +74,9 @@ ul li:first-child::after{
 /* Hero-Banner */
 
 /* .hero-container{
-    display: grid;
-    grid-template-columns: repeat(6, 1fr);
-    grid-template-rows: repeat(1,1fr);
+     display: grid;
+     grid-template-columns: repeat(6, 1fr);
+     grid-template-rows: repeat(1,1fr);
 } */
 
 /* Left Side */
